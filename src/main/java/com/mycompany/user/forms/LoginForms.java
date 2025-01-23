@@ -22,7 +22,7 @@ public class LoginForms extends javax.swing.JFrame {
     public LoginForms() {
         initComponents();
         this.iUserRepository = new UserRepository ();
-    }
+    } 
 
     /**
      * This method is called from within the constructor to initialize the form.
